@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Accion",
+				"accion"
+			],
+			[
+				"E",
+				"EJEMPLO"
+			],
+			[
+				"INI",
+				"INICIALIZAR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/crojas/Documents/GitHub/google-homepage"
+	],
+	"file_history":
+	[
+		"/C/Users/crojas/Documents/GitHub/google-homepage/index.html",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/jComponentes/CC15.xml",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/jComponentes/CC18_CM.xml",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/jComponentes/CC10.xml",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/Main.xml",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/FlujoInformacion.xml",
+		"/D/Proyectos 2015/SUNARP/SNRPMS3K V1.0.1.0/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/FlujoBusqueda.xml",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/SERVIDOR/HIPERCENTER/TestHipercenter/transacciones/TrnValidaLogin.xml",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/SERVIDOR/HIPERCENTER/TestHipercenter/transacciones/TrnValidaUsuario.xml",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/MainRecaudador.xml",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/EJEMPLO2FORM.properties",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/INUSER.properties",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/INICIALIZARRECAUDADOR.properties",
+		"/D/Proyectos 2015/SUNARP/SNRP-MS3K-12566/fuentes/MS3000/CLIENTE PC/ClientePC/HRunAplicacion/files/jComponentes/loginForm.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"teclado_numerico",
+			"TecladoVirtual",
+			"modo=\"1\"",
+			"<TecladoVirtual imagen=\"\" modo=\"1\">",
+			"TecladoVirtual",
+			"formu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "google-homepage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"consu",
+				"CONSULTA2.properties"
+			],
+			[
+				"consulta",
+				"ConsultaPartida.xml"
+			],
+			[
+				"main",
+				"Main.xml"
+			],
+			[
+				"fljo",
+				"FlujoInformacion.xml"
+			],
+			[
+				"user",
+				"INUSER.properties"
+			],
+			[
+				"ejempl",
+				"EJEMPLO2FORM.properties"
+			],
+			[
+				"ejemplo",
+				"EJEMPLO2FORM.properties"
+			],
+			[
+				"inuse",
+				"INUSER.properties"
+			],
+			[
+				"ini",
+				"INICIALIZARRECAUDADOR.properties"
+			],
+			[
+				"inci",
+				"INICIALIZARRECAUDADOR.properties"
+			],
+			[
+				"inuser",
+				"INUSER.properties"
+			],
+			[
+				"incia",
+				"INICIALIZARRECAUDADOR.properties"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\crojas\\Documents\\flujos Hipercenter.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

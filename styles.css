@@ -1,0 +1,37 @@
+section{
+	text-align:center;
+	position:relative;
+	top:200px;
+}
+img{
+	width: 269px;
+	margin-bottom: 15px;
+}
+input[type="text"]{
+	width:486px;
+	height:30px;
+}
+input[type="submit"]{
+	margin:15px;
+}
+
+li{
+	list-style-type: none;
+	margin:0 10px;
+	display:inline;
+}
+footer{
+	position:absolute;
+	width:100%;
+	bottom:0px;
+}
+nav ul{
+	float:right;
+}
+
+#izq{
+	float:left;
+}
+#der{
+	float:right;
+}
